@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.nonbilli.puzzle.sudoku",
+    "sha256_cert_fingerprints":
+    ["B0:EC:22:1C:0E:D4:CC:B8:FD:58:9F:04:87:87:EF:3E:76:A2:7A:64:7E:FF:42:5A:21:19:CA:DD:16:6E:48:99"]
+  }
+}]
