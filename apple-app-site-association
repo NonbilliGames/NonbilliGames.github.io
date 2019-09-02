@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "QU8UYM8VD6.com.nonbilli.puzzle.sudoku",
-                "paths": [ "/sudokuinfinity/*" ]
+                "paths": [ "/sudoku2d/*" ]
             }
         ]
     }
